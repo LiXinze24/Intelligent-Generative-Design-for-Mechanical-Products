@@ -173,21 +173,11 @@ $ gradio app.py
 Our project owes its success to the invaluable contributions of these remarkable individuals. We extend our heartfelt gratitude for their dedication and support.
 
 
-<a href="https://scholar.google.com/citations?hl=en&authuser=1&user=QYcfOjEAAAAJ">
-  <img src="https://av.dfki.de/wp-content/uploads/avatars/162/1722545138-bpfull.png" width="50" height="50" style="border-radius: 50%;">
-</a>
-<a href="https://github.com/saali14">
-  <img src="https://github.com/saali14.png" width="50" height="50" style="border-radius: 50%;">
-</a>
-<a href="https://scholar.google.de/citations?user=yW7VfAgAAAAJ&hl=en">
-  <img src="https://scholar.google.de/citations/images/avatar_scholar_128.png" width="50" height="50" style="border-radius: 50%;">
-</a>
-
 <br>
 
 # ✍🏻 Acknowledgement
 
-We thank the authors of [DeepCAD](https://github.com/ChrisWu1997/DeepCAD) and [SkexGen](https://samxuxiang.github.io/skexgen/) and acknowledge the use of their code.
+
 
 # 📜 Citation
 
@@ -195,15 +185,5 @@ If you use this dataset in your work, please consider citing the following publi
 
 
 ```
-@inproceedings{text2cad,
-	author = {Khan, Mohammad Sadil and Sinha, Sankalp and Sheikh, Talha Uddin and Stricker, Didier and Ali, Sk Aziz and Afzal, Muhammad Zeshan},
-	booktitle = {Advances in Neural Information Processing Systems},
-	editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
-	pages = {7552--7579},
-	publisher = {Curran Associates, Inc.},
-	title = {Text2CAD: Generating Sequential CAD Designs from Beginner-to-Expert Level Text Prompts},
-	url = {https://proceedings.neurips.cc/paper_files/paper/2024/file/0e5b96f97c1813bb75f6c28532c2ecc7-Paper-Conference.pdf},
-	volume = {37},
-	year = {2024},
-	bdsk-url-1 = {https://proceedings.neurips.cc/paper_files/paper/2024/file/0e5b96f97c1813bb75f6c28532c2ecc7-Paper-Conference.pdf}}
+
 ```
